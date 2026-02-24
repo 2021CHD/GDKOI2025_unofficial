@@ -1,2 +1,7 @@
-# GDKOI2025_unofficial
-Unofficial repository for GDKOI 2025.
+# GDKOI2025 非官方信息收集
+
+侵删。
+
+如有补充或纠正欢迎联系。
+
+luogu uid:807375
